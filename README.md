@@ -4,7 +4,7 @@ Health is an intelligent, React-based emergency response system designed to **pr
 
 ## 🚀 Project Overview
 
-PULSE leverages predictive analytics and real-time geolocation to reduce emergency response time. It allows users to receive alerts, track emergency trends, and connect with nearby responders instantly.
+Helthdystem  leverages predictive analytics and real-time geolocation to reduce emergency response time. It allows users to receive alerts, track emergency trends, and connect with nearby responders instantly.
 
 ## 🌐 Live Demo
 [Link to live app if hosted]  
@@ -13,9 +13,6 @@ PULSE leverages predictive analytics and real-time geolocation to reduce emergen
 ## 📦 Tech Stack
 
 - **Frontend**: React.js, React Router, Tailwind CSS / Bootstrap
-- **Backend (Optional)**: Node.js + Express
-- **Database**: Firebase / MongoDB / PostgreSQL
-- **APIs Used**:  
   - Google Maps API (for location)  
   - Twilio API (for SMS alerts)  
   - Emergency data API (optional)  
@@ -33,7 +30,7 @@ PULSE leverages predictive analytics and real-time geolocation to reduce emergen
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pulse.git
+git clone https://github.com/Mkhulekani/HelthSystem.git
 cd pulse
 
 # Install dependencies
